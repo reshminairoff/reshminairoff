@@ -4,7 +4,7 @@ ECE fresher passionate about digital design and semiconductors.
 I work close to the hardware — writing RTL, simulating circuits, 
 and learning how chips are built from the ground up.
 
-Currently sharpening my skills and actively looking for entry-level 
+Currently sharpening my skills and actively looking for an entry-level 
 roles in VLSI, RTL design, or FPGA development.
 
 ---

@@ -23,7 +23,7 @@ roles in VLSI, RTL design, or FPGA development.
 
 ## 📂 What I'm Building
 
-### 🟢 [HDLBits Verilog Solutions](https://github.com/reshmisoffi27-wq/HDLBits-Verilog-Solutions)
+### 🟢 [HDLBits Verilog Solutions](https://github.com/reshminairoff/HDLBits-Verilog-Solutions)
 Solving HDLBits problems to build strong RTL fundamentals —
 combinational logic, sequential circuits, and FSMs.
 Simulated and verified on EDA Playground.

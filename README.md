@@ -1,6 +1,6 @@
 # Hi, I'm Reshmi 👋
 
-ECE Engineer and also a VLSI Enthusiastic, passionate about digital design and semiconductors.
+ECE Engineer and also a VLSI Enthusiast, passionate about digital design and semiconductors.
 I work close to the hardware — writing RTL, simulating circuits, 
 and learning how chips are built from the ground up.
 
